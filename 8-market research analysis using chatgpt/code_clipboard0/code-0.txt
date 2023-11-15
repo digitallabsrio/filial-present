@@ -1,0 +1,9 @@
+import matplotlib.pyplot as plt
+
+fig = plt.figure(figsize = (10, 5))
+# creating the bar plot
+plt.bar(factors, values, color ='blue', width = 0.4)
+plt.xlabel("Factors invloved in decision")
+plt.ylabel("Percentage")
+plt.title("Factors involved while making a purchase")
+plt.savefig('output/fig.png')

@@ -1,0 +1,12 @@
+import matplotlib.pyplot as plt
+# Print the results
+print("Percentage of males who shop 1-2 times a week:", percentage_males, "%")
+print("Percentage of females who shop 1-2 times a week", percentage_females, "%")
+
+labels = ['Males', 'Females']
+sizes = [percentage_males, percentage_females]
+
+fig, ax = plt.subplots()
+ax.pie(sizes, labels=labels, autopct='%1.1f%%')
+ax.set_title("Percentage of Males and Females Who Shop 1-2 Time a Week")
+fig.savefig('output/pie.png')

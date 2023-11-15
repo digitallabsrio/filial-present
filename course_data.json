@@ -1,0 +1,33 @@
+{
+  "course_name": "Empowering Solopreneurs in the Enterprise Landscape with ChatGPT - Learn Interactively",
+  "course_overview": "A solopreneur manages a business alone without coworkers or partners and must perform multiple tasks simultaneously. \n\nYou'll start the course with an introduction to prompt engineering and its applications. Next, you'll learn the importance of market research and learn to write highly effective prompts to design comprehensive surveys, interview questions, and perform secondary research. You'll learn the vital role of optimizing the website's content for search engines become proficient in writing prompts to facilitate keyword search and improve on-page and off-page elements. Next, you'll learn the significance of marketing campaigns and providing exceptional customer service and how to utilize prompts to harness the power of ChatGPT. Finally, you'll learn how AI tools can assist in expanding your business globally by using effective prompts.\n\nBy the end of the course, you'll master the skill of crafting effective prompts for efficient business management as a solopreneur.",
+  "course_folder": "empowering solopreneurs in the enterprise landscape with chatgpt",
+  "course_lessons": [
+    "0-what is a solopreneur",
+    "1-harnessing generative ai tools",
+    "2-what this course includes",
+    "3-fundamentals of prompt engineering",
+    "4-applications of prompt engineering",
+    "5-what is market research",
+    "6-designing a survey using chatgpt",
+    "7-other market research methods",
+    "8-market research analysis using chatgpt",
+    "9-exercise market research",
+    "10-what is search engine optimization",
+    "11-improving seo using keyword research",
+    "12-improving seo using on page and off page elements",
+    "13-increasing visibility by optimising content structure",
+    "14-what is a marketing campaign",
+    "15-direct channels for marketing campaigns",
+    "16-indirect channels for marketing campaigns",
+    "17-what is customer service",
+    "18-frequently asked questions",
+    "19-personalized responses in customer service",
+    "20-what are the challenges in global expansion",
+    "21-overcome cultural and language differences",
+    "22-understand compliance and regulations",
+    "23-know your competitors",
+    "24-closing remarks"
+  ],
+  "repo_name": "filial-present"
+}
